@@ -1,0 +1,1684 @@
+"course","institution","academicyear","academicmajor","gender","race","actualrecognition","perceivedrecognition"
+"1A","1","Second","Engineering","Man","White",1,4
+"1A","1","First","Engineering","Other","White",4,2
+"1A","1","First","Other physical science","Woman","Asian",0,4
+"1A","1","First","Engineering","Man","White",1,4
+"1A","1","First","Engineering","Woman","Unknown",0,3
+"1A","1","First","Other physical science","Woman","Unknown",0,3
+"1A","1","First","Engineering","Woman","Asian",1,3
+"1A","1","Second","Engineering","Man","Asian",1,4
+"1A","1","First","Engineering","Woman","White",0,4
+"1A","1","Second","Other physical science","Man","Asian",3,3
+"1A","1","First","Unknown","Man","Asian",0,4
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","Third","Engineering","Man","Asian",1,4
+"1A","1","First","Engineering","Woman","Unknown",2,4
+"1A","1","Second","Engineering","Man","Asian",2,4
+"1A","1","Second","Engineering","Man","Unknown",0,4
+"1A","1","First","Other physical science","Man","Asian",5,3
+"1A","1","First","Engineering","Woman","White",1,3
+"1A","1","First","Engineering","Man","Hispanic or Latinx or Spanish Origin,White",3,4
+"1A","1","First","Engineering","Woman","Asian",1,2
+"1A","1","Second","Engineering","Man","Asian",2,3
+"1A","1","First","Engineering","Woman","White",5,4
+"1A","1","First","Engineering","Woman","White",2,3
+"1A","1","First","Engineering","Woman","Asian",2,4
+"1A","1","First","Engineering","Man","Asian",0,2
+"1A","1","First","Physics","Woman","Asian",1,5
+"1A","1","First","Engineering","Man","White",1,4
+"1A","1","First","Other physical science","Man","Unknown",0,1
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","First","Other physical science","Woman","Asian",1,3
+"1A","1","Second","Engineering","Woman","Asian",3,3
+"1A","1","Second","Engineering","Man","Black or African American",0,5
+"1A","1","First","Engineering","Woman","Asian",2,5
+"1A","1","First","Other physical science","Man","White",3,4
+"1A","1","Fourth","Engineering","Man","Asian",0,1
+"1A","1","First","Engineering","Woman","Asian",1,3
+"1A","1","First","Physics","Man","White",2,3
+"1A","1","First","Engineering","Man","Asian",2,4
+"1A","1","First","Engineering","Woman","White",2,4
+"1A","1","First","Engineering","Man","White",2,4
+"1A","1","First","Engineering","Man","Asian",1,3
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",2,4
+"1A","1","Second","Engineering","Woman","White",1,3
+"1A","1","First","Engineering","Man","White",1,4
+"1A","1","First","Engineering","Woman","Asian",4,4
+"1A","1","First","Engineering","Woman","Asian,White",4,4
+"1A","1","First","Engineering","Man","Asian",1,3
+"1A","1","First","Engineering","Man","White",3,5
+"1A","1","Second","Physics","Man","Asian",0,3
+"1A","1","First","Engineering","Man","White",0,2
+"1A","1","Second","Engineering","Man","Asian",0,3
+"1A","1","First","Engineering","Woman","Black or African American",0,3
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","Second","Engineering","Man","Unknown",0,4
+"1A","1","First","Engineering","Woman","Asian",4,4
+"1A","1","First","Other physical science","Woman","Asian",1,2
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","White",2,4
+"1A","1","Second","Engineering","Man","Asian,White",2,3
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","Second","Engineering","Man","Asian",1,3
+"1A","1","Second","Engineering","Man","Asian",0,5
+"1A","1","First","Engineering","Woman","White",3,3
+"1A","1","First","Other physical science","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",2,4
+"1A","1","First","Engineering","Man","Unknown",0,2
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","Second","Unknown","Man","Asian",0,5
+"1A","1","Second","Engineering","Woman","Asian",1,4
+"1A","1","First","Engineering","Man","Asian",1,4
+"1A","1","First","Other physical science","Man","Asian,White",0,3
+"1A","1","First","Engineering","Man","White",2,5
+"1A","1","First","Engineering","Man","White",0,4
+"1A","1","First","Other physical science","Woman","Hispanic or Latinx or Spanish Origin,White",0,3
+"1A","1","Second","Engineering","Man","White",0,5
+"1A","1","Second","Engineering","Other","Asian",0,2
+"1A","1","Second","Engineering","Woman","White",0,4
+"1A","1","First","Engineering","Woman","White",0,2
+"1A","1","First","Engineering","Man","Asian",2,3
+"1A","1","First","Engineering","Man","Asian,Black or African American,White",1,2
+"1A","1","Second","Other physical science","Man","White",0,4
+"1A","1","First","Engineering","Man","Hispanic or Latinx or Spanish Origin",0,1
+"1A","1","First","Engineering","Woman","Asian",2,4
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","White",0,3
+"1A","1","First","Engineering","Woman","White",0,3
+"1A","1","First","Engineering","Man","Asian",1,4
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","White",1,4
+"1A","1","Second","Engineering","Man","Asian",0,2
+"1A","1","First","Engineering","Man","White",0,5
+"1A","1","First","Engineering","Woman","Asian",2,4
+"1A","1","First","Engineering","Woman","Asian",6,4
+"1A","1","First","Engineering","Man","Middle Eastern or North African",1,2
+"1A","1","Second","Engineering","Woman","White",0,2
+"1A","1","First","Engineering","Man","Asian,White",0,3
+"1A","1","First","Engineering","Woman","Asian",1,3
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","Second","Other physical science","Man","Asian",0,3
+"1A","1","Second","Engineering","Man","Black or African American,Hispanic or Latinx or Spanish Origin",0,2
+"1A","1","First","Engineering","Man","Asian",1,2
+"1A","1","First","Other physical science","Woman","Asian",1,2
+"1A","1","First","Unknown","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",3,5
+"1A","1","First","Engineering","Man","Asian",0,4
+"1A","1","First","Engineering","Woman","Asian",1,2
+"1A","1","First","Engineering","Woman","Asian",0,2
+"1A","1","First","Engineering","Man","White",2,3
+"1A","1","First","Engineering","Woman","Asian",1,2
+"1A","1","First","Engineering","Woman","White",0,3
+"1A","1","First","Other physical science","Woman","Asian",2,3
+"1A","1","First","Other physical science","Man","Asian",0,3
+"1A","1","First","Physics","Woman","Asian",1,4
+"1A","1","First","Engineering","Woman","White",0,4
+"1A","1","First","Engineering","Man","Asian,White",0,2
+"1A","1","First","Engineering","Woman","White",0,1
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","White",0,3
+"1A","1","First","Engineering","Woman","Asian",1,3
+"1A","1","First","Engineering","Man","Middle Eastern or North African,White",0,3
+"1A","1","First","Engineering","Woman","Middle Eastern or North African",0,2
+"1A","1","First","Engineering","Man","Asian",1,3
+"1A","1","First","Engineering","Man","White",2,3
+"1A","1","First","Engineering","Man","Asian,Hispanic or Latinx or Spanish Origin",1,3
+"1A","1","First","Unknown","Woman","Asian",0,3
+"1A","1","Second","Engineering","Man","Unknown",0,4
+"1A","1","First","Engineering","Man","White",0,4
+"1A","1","First","Other physical science","Man","Asian",0,3
+"1A","1","First","Engineering","Man","Hispanic or Latinx or Spanish Origin",2,3
+"1A","1","First","Engineering","Woman","White",1,3
+"1A","1","Second","Engineering","Man","White",0,2
+"1A","1","First","Other physical science","Man","Hispanic or Latinx or Spanish Origin",2,3
+"1A","1","First","Engineering","Woman","Hispanic or Latinx or Spanish Origin,White",1,3
+"1A","1","First","Engineering","Woman","Asian",2,2
+"1A","1","First","Engineering","Woman","White",1,2
+"1A","1","Second","Other physical science","Woman","Hispanic or Latinx or Spanish Origin",0,4
+"1A","1","First","Engineering","Woman","Asian",0,1
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","First","Engineering","Man","Hispanic or Latinx or Spanish Origin",3,4
+"1A","1","First","Engineering","Man","Asian",1,2
+"1A","1","Third","Other","Woman","Middle Eastern or North African,White",0,2
+"1A","1","First","Engineering","Man","White",0,3
+"1A","1","Second","Unknown","Man","Black or African American",2,4
+"1A","1","First","Engineering","Woman","Asian",1,3
+"1A","1","Second","Engineering","Man","Asian",0,3
+"1A","1","First","Engineering","Man","Asian",2,4
+"1A","1","Second","Engineering","Woman","White",0,1
+"1A","1","First","Engineering","Man","Asian",0,2
+"1A","1","Second","Engineering","Man","Black or African American",0,3
+"1A","1","First","Other physical science","Other","White",0,3
+"1A","1","Second","Other physical science","Woman","White",0,3
+"1A","1","First","Physics","Woman","Asian",1,5
+"1A","1","First","Engineering","Woman","White",0,4
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","Middle Eastern or North African",0,2
+"1A","1","First","Engineering","Man","White",1,2
+"1A","1","Second","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","White",2,4
+"1A","1","First","Engineering","Man","Hispanic or Latinx or Spanish Origin",0,4
+"1A","1","First","Engineering","Woman","Hispanic or Latinx or Spanish Origin,Middle Eastern or North African",0,2
+"1A","1","First","Engineering","Woman","Asian",2,4
+"1A","1","First","Engineering","Man","White",1,2
+"1A","1","First","Unknown","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",2,3
+"1A","1","First","Engineering","Man","Hispanic or Latinx or Spanish Origin",0,2
+"1A","1","First","Other physical science","Woman","Asian",0,2
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","Black or African American",0,3
+"1A","1","First","Unknown","Man","Unknown",0,3
+"1A","1","First","Engineering","Woman","Asian",0,2
+"1A","1","First","Engineering","Woman","Asian",1,4
+"1A","1","First","Engineering","Man","Asian,White",1,4
+"1A","1","First","Engineering","Man","Unknown",0,3
+"1A","1","First","Engineering","Man","Asian",0,2
+"1A","1","Second","Other physical science","Man","White",0,3
+"1A","1","First","Life science or biology","Man","Asian",0,3
+"1A","1","First","Engineering","Woman","White",3,3
+"1A","1","First","Engineering","Man","Asian",0,5
+"1A","1","First","Engineering","Woman","White",1,5
+"1A","1","First","Physics","Man","Black or African American,White",0,3
+"1A","1","First","Engineering","Man","Asian",0,5
+"1A","1","First","Engineering","Woman","Asian",1,4
+"1A","1","First","Engineering","Woman","Unknown",1,5
+"1A","1","First","Engineering","Woman","Middle Eastern or North African,White",1,3
+"1A","1","Second","Engineering","Man","Asian",1,4
+"1A","1","First","Physics","Woman","White",0,5
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","Middle Eastern or North African",0,3
+"1A","1","First","Other physical science","Man","Asian",1,3
+"1A","1","Second","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",3,2
+"1A","1","First","Engineering","Man","Asian",0,4
+"1A","1","First","Engineering","Man","White",2,3
+"1A","1","First","Other physical science","Man","Asian",0,2
+"1A","1","First","Other physical science","Man","Black or African American",1,3
+"1A","1","Third","Life science or biology","Man","Asian",2,3
+"1A","1","Second","Other","Woman","White",0,4
+"1A","1","First","Engineering","Man","White",2,3
+"1A","1","First","Engineering","Man","White",0,4
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","First","Engineering","Other","Asian,White",0,2
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",1,4
+"1A","1","First","Unknown","Woman","Asian",0,4
+"1A","1","First","Engineering","Man","Asian",0,4
+"1A","1","First","Other physical science","Man","Hispanic or Latinx or Spanish Origin",0,2
+"1A","1","First","Engineering","Woman","Asian,White",3,3
+"1A","1","First","Physics","Other","White",1,4
+"1A","1","First","Engineering","Woman","Asian",0,2
+"1A","1","First","Other physical science","Woman","Black or African American",0,1
+"1A","1","First","Engineering","Man","Asian,White",0,3
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","Second","Engineering","Man","Middle Eastern or North African",0,1
+"1A","1","First","Engineering","Woman","Asian",0,4
+"1A","1","First","Engineering","Man","White",3,4
+"1A","1","Second","Life science or biology","Man","White",0,2
+"1A","1","First","Engineering","Man","Asian",0,2
+"1A","1","First","Engineering","Woman","White",1,3
+"1A","1","First","Engineering","Woman","White",0,3
+"1A","1","First","Engineering","Man","Unknown",0,2
+"1A","1","First","Unknown","Man","White",0,4
+"1A","1","First","Engineering","Woman","Asian,White",1,4
+"1A","1","Third","Other physical science","Man","Asian",0,5
+"1A","1","Second","Other physical science","Woman","Asian",0,4
+"1A","1","First","Engineering","Man","Black or African American",0,3
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Woman","Asian",0,3
+"1A","1","Second","Life science or biology","Man","Asian",3,5
+"1A","1","First","Engineering","Man","Asian",0,4
+"1A","1","First","Physics","Woman","White",2,4
+"1A","1","First","Physics","Man","Asian",0,4
+"1A","1","First","Physics","Woman","White",3,4
+"1A","1","First","Physics","Man","Hispanic or Latinx or Spanish Origin",1,4
+"1A","1","First","Physics","Man","Asian",0,4
+"1A","1","First","Physics","Other","White",1,4
+"1A","1","First","Physics","Man","White",0,5
+"1A","1","First","Physics","Man","Asian,White",1,5
+"1A","1","First","Physics","Woman","White",2,3
+"1A","1","First","Other","Man","Asian",4,3
+"1A","1","First","Physics","Man","White",2,5
+"1A","1","First","Physics","Man","Asian",3,4
+"1A","1","First","Physics","Woman","White",0,4
+"1A","1","First","Physics","Woman","Asian,White",0,4
+"1A","1","First","Physics","Man","White",1,4
+"1A","1","First","Physics","Man","Asian",4,4
+"1A","1","First","Physics","Man","White",0,4
+"1A","1","First","Physics","Man","American Indian or Alaska Native,White",0,5
+"1A","1","First","Physics","Man","White",6,5
+"1A","1","First","Physics","Woman","White",1,5
+"1A","1","First","Engineering","Man","Asian",0,3
+"1A","1","First","Physics","Woman","White",4,3
+"1A","1","First","Physics","Woman","White",0,4
+"1A","1","First","Engineering","Man","Asian",2,5
+"1A","1","First","Physics","Man","Asian,White",0,4
+"1A","1","First","Physics","Man","White",2,4
+"1A","1","First","Physics","Man","Asian,White",1,4
+"1A","1","First","Physics","Man","White",0,5
+"1A","1","First","Physics","Man","White",1,4
+"1A","1","First","Physics","Man","Asian,Hispanic or Latinx or Spanish Origin",1,4
+"1A","1","First","Physics","Man","White",1,5
+"1A","1","First","Physics","Woman","Asian",0,3
+"1A","1","First","Physics","Woman","White",0,4
+"1A","1","First","Physics","Man","White",0,5
+"1A","1","First","Physics","Man","Asian",0,3
+"1A","1","First","Physics","Man","Asian",0,5
+"1A","1","First","Engineering","Woman","Asian",1,5
+"1A","1","Second","Engineering","Woman","White",0,3
+"1A","1","Second","Engineering","Woman","Asian",0,2
+"1A","1","Second","Engineering","Man","White",0,1
+"1A","1","Second","Physics","Man","Asian",0,3
+"1A","1","Second","Engineering","Woman","White",0,3
+"1A","1","First","Other physical science","Woman","Asian",0,2
+"1A","1","First","Other physical science","Woman","Asian",0,3
+"1A","1","Second","Engineering","Man","Hispanic or Latinx or Spanish Origin",0,3
+"1A","1","First","Engineering","Man","White",0,4
+"1A","1","First","Physics","Man","Black or African American",1,4
+"1A","1","First","Engineering","Woman","Asian",0,4
+"1A","1","Second","Engineering","Woman","Asian",0,3
+"1A","1","First","Engineering","Man","White",0,3
+"1A","1","Second","Engineering","Man","White",0,5
+"1A","1","Second","Physics","Man","Asian",0,4
+"1A","1","First","Engineering","Woman","Asian",0,4
+"3A","3","First","Physics","Man","Asian/Asian American",2,4
+"3A","3","First","Physics","Woman","White",0,3
+"3A","3","First","Physics","Man","White",0,4
+"3A","3","First","Physics","Woman","White",4,4
+"3A","3","First","Physics","Man","White",0,2
+"3A","3","First","Physics","Woman","White",2,5
+"3A","3","Second","Physics","Woman","White",3,1
+"3A","3","First","Physics","Man","Hispanic or Latinx",1,4
+"5A","5","Second","Engineering","Woman","White",1,2
+"5A","5","Second","Other","Man","White",3,3
+"5A","5","Second","Engineering","Man","Asian/Asian American",3,1
+"5A","5","First","Engineering","Woman","White",2,3
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","Third","Other","Man","White",0,4
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx,White",0,4
+"5A","5","Second","Engineering","Woman","White",4,2
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","First","Life science or biology","Woman","White",1,2
+"5A","5","First","Engineering","Woman","White",3,2
+"5A","5","Second","Engineering","Man","Hispanic or Latinx,White",3,3
+"5A","5","Second","Other physical science","Man","White",1,3
+"5A","5","Second","Engineering","Man","White",3,4
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Third","Other physical science","Man","White",0,3
+"5A","5","Third","Engineering","Man","White",1,2
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Other physical science","Man","White",3,3
+"5A","5","First","Engineering","Man","Black or African American",1,4
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",1,2
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","Asian/Asian American,Hispanic or Latinx,White",0,4
+"5A","5","Second","Other","Woman","White",1,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx",1,3
+"5A","5","Second","Engineering","Man","White",0,2
+"5A","5","Second","Life science or biology","Woman","White",0,2
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","First","Other","Man","Asian/Asian American,White",1,1
+"5A","5","Second","Other","Man","White",3,3
+"5A","5","First","Engineering","Man","White",3,3
+"5A","5","First","Engineering","Man","White",6,4
+"5A","5","First","Other","Man","White",1,3
+"5A","5","Second","Engineering","Woman","White",1,3
+"5A","5","Second","Other","Woman","White",1,3
+"5A","5","Second","Engineering","Woman","Black or African American",1,4
+"5A","5","Second","Other physical science","Other","White",1,1
+"5A","5","Second","Engineering","Man","White",2,4
+"5A","5","Second","Engineering","Man","White",2,3
+"5A","5","Second","Other physical science","Other","White",1,1
+"5A","5","Third","Life science or biology","Man","White",1,4
+"5A","5","Second","Engineering","Woman","White",1,1
+"5A","5","Second","Engineering","Woman","White",0,4
+"5A","5","Second","Life science or biology","Woman","Unknown",0,1
+"5A","5","Second","Engineering","Man","White",0,1
+"5A","5","Second","Engineering","Man","Hispanic or Latinx,White",0,2
+"5A","5","Second","Engineering","Man","Asian/Asian American",1,3
+"5A","5","First","Engineering","Woman","White",1,4
+"5A","5","Second","Engineering","Man","White",0,2
+"5A","5","Second","Life science or biology","Man","White",3,4
+"5A","5","First","Engineering","Man","White",2,4
+"5A","5","Second","Engineering","Man","White",5,3
+"5A","5","Second","Other","Man","White",0,3
+"5A","5","Second","Other physical science","Man","White",5,3
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",1,3
+"5A","5","Second","Engineering","Man","White",4,1
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","Second","Engineering","Man","Black or African American",1,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx",1,3
+"5A","5","Second","Engineering","Man","Asian/Asian American",1,3
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",1,1
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","Other","Engineering","Man","White",1,5
+"5A","5","Second","Other","Man","Asian/Asian American",1,3
+"5A","5","First","Engineering","Woman","Hispanic or Latinx,White",2,2
+"5A","5","First","Engineering","Man","Asian/Asian American",1,4
+"5A","5","Second","Engineering","Woman","Middle Eastern or North African",4,3
+"5A","5","First","Engineering","Man","White",3,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",2,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,3
+"5A","5","Second","Engineering","Man","White",3,4
+"5A","5","First","Engineering","Man","White",0,5
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",0,4
+"5A","5","Third","Engineering","Man","Hispanic or Latinx,White",0,4
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Man","White",1,5
+"5A","5","Second","Engineering","Man","White",1,1
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","First","Engineering","Woman","Asian/Asian American",1,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Woman","Hispanic or Latinx",0,4
+"5A","5","First","Engineering","Man","Asian/Asian American",0,2
+"5A","5","First","Engineering","Man","White",0,5
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","Second","Other","Man","White",0,3
+"5A","5","Second","Engineering","Woman","Hispanic or Latinx,White",1,1
+"5A","5","Third","Other physical science","Man","White",1,3
+"5A","5","First","Engineering","Man","White",3,4
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",0,5
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","First","Engineering","Man","Asian/Asian American",1,3
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Unknown","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Man","White",4,4
+"5A","5","First","Engineering","Man","White",2,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx,White",1,4
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","First","Other physical science","Man","White",1,4
+"5A","5","First","Engineering","Woman","White",1,1
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","Second","Engineering","Man","White",0,2
+"5A","5","Unknown","Engineering","Man","Black or African American",0,3
+"5A","5","Second","Engineering","Woman","White",1,4
+"5A","5","Second","Engineering","Man","White",1,3
+"5A","5","Fourth","Other physical science","Man","White",1,3
+"5A","5","First","Unknown","Man","White",1,3
+"5A","5","Second","Engineering","Man","White",0,2
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","Second","Unknown","Man","White",0,3
+"5A","5","Fourth","Other","Woman","White",1,3
+"5A","5","First","Engineering","Woman","Hispanic or Latinx",1,2
+"5A","5","First","Other physical science","Man","White",2,3
+"5A","5","Second","Other","Woman","White",0,4
+"5A","5","First","Engineering","Woman","American Indian or Alaska Native,Hispanic or Latinx,White",0,3
+"5A","5","Second","Other physical science","Man","Unknown",1,4
+"5A","5","First","Engineering","Man","White",0,2
+"5A","5","Second","Engineering","Man","Asian/Asian American",0,3
+"5A","5","First","Engineering","Man","Middle Eastern or North African,White",0,3
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","Second","Engineering","Man","Asian/Asian American",0,2
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","Second","Engineering","Woman","Black or African American",0,1
+"5A","5","Second","Other","Man","Asian/Asian American",2,1
+"5A","5","First","Engineering","Man","Asian/Asian American",2,5
+"5A","5","Fourth","Other physical science","Man","Black or African American",2,4
+"5A","5","First","Engineering","Man","White",3,3
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Second","Engineering","Man","Black or African American,White",1,3
+"5A","5","Second","Other","Man","White",1,2
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Second","Other","Man","White",4,3
+"5A","5","Second","Engineering","Man","Unknown",1,3
+"5A","5","Second","Engineering","Man","Middle Eastern or North African",0,4
+"5A","5","Fourth","Engineering","Man","White",0,5
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",0,5
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","Third","Engineering","Man","White",0,2
+"5A","5","First","Engineering","Man","White",3,3
+"5A","5","First","Engineering","Woman","Asian/Asian American",1,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,3
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",0,2
+"5A","5","Second","Other","Man","Hispanic or Latinx",0,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Unknown","Woman","Unknown",1,3
+"5A","5","Third","Other","Man","White",1,4
+"5A","5","Second","Engineering","Man","Hispanic or Latinx",1,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx",0,1
+"5A","5","First","Engineering","Man","White",1,3
+"5A","5","Second","Engineering","Man","White",3,3
+"5A","5","Second","Engineering","Man","White",1,2
+"5A","5","Second","Engineering","Man","White",0,5
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Man","White",4,4
+"5A","5","Second","Engineering","Woman","Asian/Asian American",2,3
+"5A","5","Second","Life science or biology","Woman","White",0,3
+"5A","5","First","Engineering","Woman","White",0,3
+"5A","5","Third","Other","Other","Asian/Asian American,Self-describe:",0,1
+"5A","5","Second","Engineering","Other","Unknown",2,5
+"5A","5","Second","Life science or biology","Woman","White",0,3
+"5A","5","First","Other physical science","Woman","Asian/Asian American",1,1
+"5A","5","Third","Engineering","Man","White",1,3
+"5A","5","Third","Other physical science","Man","White",1,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,5
+"5A","5","Second","Engineering","Man","White",0,5
+"5A","5","Second","Other physical science","Woman","Asian/Asian American,White",1,2
+"5A","5","Second","Engineering","Man","White",2,2
+"5A","5","First","Engineering","Man","White",1,3
+"5A","5","Third","Life science or biology","Woman","White",0,2
+"5A","5","Second","Other physical science","Man","Black or African American",0,2
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Second","Other","Man","White",1,2
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Other physical science","Woman","White",1,4
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","Second","Unknown","Man","White",3,4
+"5A","5","Second","Engineering","Woman","White",1,4
+"5A","5","Second","Other","Woman","White",0,3
+"5A","5","Second","Life science or biology","Woman","Unknown",2,2
+"5A","5","First","Engineering","Woman","White",2,4
+"5A","5","First","Engineering","Woman","White",1,4
+"5A","5","Second","Other physical science","Woman","White",0,3
+"5A","5","Second","Other","Woman","White",0,2
+"5A","5","Second","Engineering","Woman","Hispanic or Latinx",1,4
+"5A","5","Fourth","Other","Woman","White",1,4
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","First","Other","Woman","White",0,2
+"5A","5","Second","Other","Man","Hispanic or Latinx",0,3
+"5A","5","Second","Engineering","Woman","Hispanic or Latinx,Middle Eastern or North African,White",1,4
+"5A","5","Second","Other physical science","Woman","Hispanic or Latinx",0,2
+"5A","5","Second","Other physical science","Man","White",0,2
+"5A","5","First","Engineering","Man","Asian/Asian American",1,4
+"5A","5","First","Engineering","Man","Asian/Asian American",1,1
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","First","Engineering","Other","White",0,1
+"5A","5","Second","Other physical science","Woman","White",0,2
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Woman","Black or African American",1,3
+"5A","5","Second","Engineering","Woman","White",1,4
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","First","Other physical science","Man","White",0,4
+"5A","5","Second","Other","Man","White",2,4
+"5A","5","First","Engineering","Man","Hispanic or Latinx",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","Asian/Asian American",1,1
+"5A","5","First","Engineering","Woman","Asian/Asian American",1,3
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","First","Engineering","Woman","White",1,1
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","First","Other physical science","Man","White",0,4
+"5A","5","Second","Engineering","Man","Black or African American,White",1,3
+"5A","5","Second","Engineering","Woman","White",0,1
+"5A","5","Second","Engineering","Man","White",3,4
+"5A","5","Second","Unknown","Woman","White",2,3
+"5A","5","Second","Engineering","Woman","White",1,2
+"5A","5","First","Other physical science","Woman","White",0,3
+"5A","5","First","Engineering","Man","Asian/Asian American,Native Hawaiian or other Pacific Islander",1,3
+"5A","5","First","Engineering","Woman","White",0,2
+"5A","5","Other","Engineering","Man","White",0,3
+"5A","5","First","Unknown","Woman","White",0,4
+"5A","5","Second","Engineering","Man","White",1,4
+"5A","5","Third","Engineering","Woman","Hispanic or Latinx",0,4
+"5A","5","Second","Engineering","Woman","White",1,4
+"5A","5","First","Engineering","Woman","Asian/Asian American",1,4
+"5A","5","First","Engineering","Woman","White",2,4
+"5A","5","Second","Engineering","Woman","White",0,1
+"5A","5","First","Engineering","Man","Asian/Asian American",1,3
+"5A","5","First","Engineering","Woman","White",0,4
+"5A","5","First","Unknown","Man","White",1,3
+"5A","5","Third","Engineering","Man","White",2,4
+"5A","5","Second","Other physical science","Man","Asian/Asian American",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Third","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Woman","Asian/Asian American",2,2
+"5A","5","Second","Other","Other","White",2,4
+"5A","5","First","Engineering","Woman","White",0,1
+"5A","5","First","Engineering","Woman","White",0,4
+"5A","5","First","Other physical science","Man","Asian/Asian American",0,4
+"5A","5","Second","Engineering","Woman","White",0,3
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",2,4
+"5A","5","First","Other physical science","Other","White,Self-describe:",0,5
+"5A","5","Second","Engineering","Man","White",0,1
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Other","Woman","White",0,4
+"5A","5","First","Engineering","Man","Asian/Asian American",1,4
+"5A","5","First","Engineering","Man","Unknown",0,4
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Second","Other","Man","White",0,1
+"5A","5","Second","Other","Man","Asian/Asian American,Middle Eastern or North African",0,1
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","First","Engineering","Man","Asian/Asian American",1,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",1,1
+"5A","5","Fourth","Other","Woman","Hispanic or Latinx",2,1
+"5A","5","First","Engineering","Woman","Asian/Asian American",0,3
+"5A","5","First","Other","Man","Asian/Asian American",0,4
+"5A","5","Third","Other","Man","White",1,3
+"5A","5","First","Engineering","Man","White",2,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","First","Engineering","Woman","White",0,4
+"5A","5","First","Engineering","Woman","White",0,3
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","Second","Engineering","Man","American Indian or Alaska Native",2,1
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","Unknown","Unknown","Man","White",0,3
+"5A","5","First","Engineering","Woman","White",0,4
+"5A","5","Second","Other","Man","Asian/Asian American",0,3
+"5A","5","Second","Engineering","Man","White",0,2
+"5A","5","Second","Engineering","Man","Asian/Asian American,White",0,4
+"5A","5","Second","Life science or biology","Man","White",0,4
+"5A","5","Second","Engineering","Man","Asian/Asian American",1,5
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","Second","Other physical science","Man","Hispanic or Latinx",0,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Man","White",1,5
+"5A","5","Second","Life science or biology","Man","Black or African American",0,3
+"5A","5","First","Engineering","Man","White",0,5
+"5A","5","Unknown","Engineering","Woman","Asian/Asian American,White",3,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx",0,3
+"5A","5","First","Engineering","Man","White",2,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,3
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","First","Engineering","Man","White",2,3
+"5A","5","First","Other physical science","Other","White",1,3
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","First","Other physical science","Man","Asian/Asian American",0,3
+"5A","5","Other","Other","Man","White",1,4
+"5A","5","First","Engineering","Man","Hispanic or Latinx,White",0,4
+"5A","5","Second","Engineering","Man","White",3,5
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Third","Engineering","Man","White",0,3
+"5A","5","Second","Engineering","Woman","White",1,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","Third","Other","Woman","White",1,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx",0,2
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Man","White",0,3
+"5A","5","First","Other physical science","Man","White",1,4
+"5A","5","First","Life science or biology","Woman","Native Hawaiian or other Pacific Islander",0,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,2
+"5A","5","First","Engineering","Man","White",1,2
+"5A","5","Second","Engineering","Man","White",1,4
+"5A","5","First","Engineering","Man","White",0,2
+"5A","5","Second","Engineering","Man","White",1,2
+"5A","5","First","Engineering","Man","White",0,2
+"5A","5","First","Engineering","Man","White",2,4
+"5A","5","First","Engineering","Man","Asian/Asian American",0,4
+"5A","5","First","Engineering","Man","White",0,2
+"5A","5","First","Engineering","Man","Hispanic or Latinx,White",0,4
+"5A","5","First","Engineering","Woman","White",0,5
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","Other","Engineering","Woman","Hispanic or Latinx",2,3
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","First","Engineering","Woman","White",1,4
+"5A","5","First","Engineering","Man","White",0,4
+"5A","5","First","Engineering","Man","Asian/Asian American,Middle Eastern or North African,White",0,4
+"5A","5","Third","Other physical science","Man","Black or African American",0,3
+"5A","5","Third","Engineering","Man","White",0,1
+"5A","5","Second","Engineering","Woman","Hispanic or Latinx",1,3
+"5A","5","Second","Engineering","Man","Black or African American",0,3
+"5A","5","First","Engineering","Man","Hispanic or Latinx",0,1
+"5A","5","Second","Engineering","Man","Asian/Asian American",1,4
+"5A","5","Second","Engineering","Man","White",4,4
+"5A","5","Second","Other physical science","Man","Asian/Asian American",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"5A","5","Second","Life science or biology","Man","White",1,4
+"5A","5","First","Engineering","Man","Asian/Asian American",0,3
+"5A","5","First","Other physical science","Man","White",0,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,3
+"5A","5","First","Engineering","Woman","Hispanic or Latinx",0,3
+"5A","5","Second","Engineering","Man","Asian/Asian American",0,3
+"5A","5","First","Engineering","Woman","Asian/Asian American",2,2
+"5A","5","Second","Engineering","Woman","White",0,2
+"5A","5","Second","Other physical science","Woman","Asian/Asian American,Black or African American",0,2
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","First","Engineering","Man","Asian/Asian American",0,5
+"5A","5","First","Other physical science","Other","Asian/Asian American",0,3
+"5A","5","Second","Engineering","Woman","White",1,3
+"5A","5","First","Other physical science","Woman","Asian/Asian American",2,3
+"5A","5","Second","Engineering","Man","Black or African American",0,3
+"5A","5","First","Engineering","Man","White",1,4
+"5A","5","Second","Physics","Man","White",0,4
+"5A","5","Second","Physics","Man","White",0,4
+"5A","5","Second","Other physical science","Man","Asian/Asian American",0,4
+"5A","5","Second","Engineering","Man","White",0,4
+"5A","5","Second","Other physical science","Woman","White",0,1
+"5A","5","First","Engineering","Woman","White",1,3
+"5A","5","Second","Other","Man","White",0,3
+"5A","5","Second","Engineering","Man","White",0,3
+"2A","2","First","Unknown","Man","Unknown",0,3
+"2A","2","Second","Engineering","Man","White",2,4
+"2A","2","Second","Other","Man","Asian/Asian American,White",0,4
+"2A","2","Second","Engineering","Man","White",0,4
+"2A","2","First","Engineering","Man","White",0,3
+"2A","2","First","Engineering","Man","White",2,5
+"2A","2","First","Physics","Man","White",0,4
+"2A","2","First","Physics","Woman","Asian/Asian American,White",2,3
+"2A","2","Second","Engineering","Woman","White",0,3
+"2A","2","First","Life science or biology","Man","Asian/Asian American",1,3
+"2A","2","Second","Engineering","Man","Black or African American,White",2,4
+"2A","2","Second","Engineering","Woman","White",0,3
+"2A","2","First","Physics","Man","White",1,2
+"2A","2","First","Physics","Man","Hispanic or Latinx,White",0,3
+"2A","2","Third","Other physical science","Woman","Asian/Asian American",2,3
+"2A","2","Second","Other physical science","Woman","White",2,4
+"2A","2","Second","Physics","Man","White",1,4
+"2A","2","Second","Engineering","Man","American Indian or Alaska Native,White",0,3
+"2A","2","Second","Engineering","Woman","Asian/Asian American,White",1,2
+"2A","2","Second","Other physical science","Man","Black or African American",0,2
+"2A","2","First","Other physical science","Man","White",0,3
+"2A","2","First","Engineering","Man","Asian/Asian American",3,2
+"2A","2","Second","Other physical science","Woman","White",1,1
+"2A","2","First","Physics","Woman","White",0,4
+"2A","2","First","Physics","Woman","Black or African American,Hispanic or Latinx",0,2
+"2A","2","First","Other physical science","Other","White",0,4
+"2A","2","Second","Physics","Woman","White",0,2
+"2A","2","Second","Life science or biology","Man","Asian/Asian American",0,3
+"2A","2","First","Engineering","Man","Asian/Asian American",2,5
+"2A","2","First","Physics","Man","Asian/Asian American,White",3,4
+"2A","2","First","Other physical science","Woman","Asian/Asian American,White",2,4
+"2A","2","First","Unknown","Man","White",2,3
+"2A","2","Third","Other physical science","Other","White",1,3
+"2A","2","First","Physics","Woman","White",0,2
+"2A","2","First","Physics","Other","Asian/Asian American,White",0,3
+"2A","2","First","Engineering","Woman","Hispanic or Latinx",0,3
+"2A","2","Second","Physics","Woman","Asian/Asian American,White",1,3
+"2A","2","Third","Other physical science","Man","White",1,1
+"2A","2","Second","Other","Man","Asian/Asian American",0,3
+"2A","2","Second","Engineering","Man","Asian/Asian American,Black or African American",1,4
+"2A","2","First","Physics","Man","Hispanic or Latinx",0,4
+"2A","2","Second","Engineering","Man","Asian/Asian American,Black or African American,White",1,3
+"2A","2","Second","Other physical science","Man","Unknown",0,3
+"2A","2","First","Physics","Man","White",3,4
+"2A","2","Second","Engineering","Man","White",0,2
+"2A","2","Second","Physics","Man","Asian/Asian American",1,3
+"2A","2","First","Engineering","Woman","Asian/Asian American",1,3
+"2A","2","First","Physics","Woman","White",0,4
+"2B","2","First","Physics","Man","Asian/Asian American",0,4
+"2B","2","First","Physics","Woman","White",0,4
+"2B","2","First","Physics","Woman","Asian/Asian American,White",0,4
+"2B","2","First","Physics","Man","Asian/Asian American",1,5
+"2B","2","First","Physics","Man","Unknown",0,2
+"2B","2","First","Physics","Other","Asian/Asian American,Black or African American",0,4
+"2B","2","First","Physics","Man","Asian/Asian American",0,5
+"2B","2","First","Physics","Woman","White",0,3
+"2B","2","First","Physics","Man","Asian/Asian American",0,3
+"8A","8","Second","Engineering","Man","Black or African American",1,3
+"8A","8","Fourth","Engineering","Man","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Black or African American",2,3
+"8A","8","Third","Other physical science","Man","White",0,3
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Woman","Black or African American",0,4
+"8A","8","Third","Engineering","Man","White",0,3
+"8A","8","Second","Engineering","Woman","Unknown",0,4
+"8A","8","Second","Engineering","Man","Unknown",0,3
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Black or African American",0,3
+"8A","8","Second","Engineering","Man","Black or African American",0,3
+"8A","8","Second","Physics","Woman","Black or African American",2,4
+"8A","8","Third","Life science or biology","Woman","Black or African American",2,3
+"8A","8","Third","Unknown","Man","Black or African American",0,4
+"8A","8","Other","Engineering","Woman","Black or African American",2,3
+"8A","8","Third","Life science or biology","Man","Black or African American",0,2
+"8A","8","Third","Physics","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Woman","Black or African American",1,1
+"8A","8","Second","Engineering","Woman","Black or African American",1,3
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Man","Black or African American",1,2
+"8A","8","Second","Engineering","Woman","Black or African American",0,4
+"8A","8","Third","Other","Woman","Black or African American",0,2
+"8A","8","Third","Engineering","Man","Black or African American",2,4
+"8A","8","Second","Physics","Man","Black or African American",2,4
+"8A","8","Second","Engineering","Man","Black or African American",2,1
+"8A","8","Third","Other","Woman","Black or African American",0,4
+"8A","8","Second","Engineering","Woman","Black or African American",1,1
+"8A","8","Second","Engineering","Man","Asian/Asian American,Black or African American",0,4
+"8A","8","Third","Other","Man","Black or African American",1,1
+"8A","8","Second","Engineering","Woman","Black or African American",0,1
+"8A","8","Third","Life science or biology","Woman","Black or African American",1,2
+"8A","8","Second","Physics","Man","Black or African American",0,2
+"8A","8","Third","Engineering","Man","Black or African American",0,3
+"8A","8","Third","Engineering","Man","Black or African American",2,3
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Second","Other physical science","Woman","Black or African American",0,2
+"8A","8","Third","Life science or biology","Man","Asian/Asian American,Black or African American,Hispanic or Latinx,Native Hawaiian or other Pacific Islander",0,3
+"8A","8","Unknown","Physics","Woman","Black or African American",3,3
+"8A","8","Third","Physics","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Woman","White",2,4
+"8A","8","Second","Engineering","Man","Black or African American",3,2
+"8A","8","Third","Engineering","Woman","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Black or African American",0,2
+"8A","8","Second","Engineering","Man","Black or African American",1,3
+"8A","8","Third","Engineering","Woman","Black or African American",0,2
+"8A","8","Third","Physics","Woman","Black or African American",0,3
+"8A","8","Third","Engineering","Woman","Black or African American",1,2
+"8A","8","Second","Engineering","Woman","Black or African American",0,2
+"8A","8","Second","Engineering","Woman","Black or African American",0,3
+"8A","8","Third","Other physical science","Woman","Black or African American",2,4
+"8A","8","Second","Physics","Woman","Black or African American",2,4
+"8A","8","Second","Engineering","Woman","Black or African American",0,2
+"8A","8","Third","Engineering","Woman","Black or African American",2,4
+"8A","8","Third","Other physical science","Woman","Black or African American",0,2
+"8A","8","Third","Engineering","Woman","Black or African American",1,4
+"8A","8","Fourth","Engineering","Man","Black or African American",2,4
+"8A","8","Second","Engineering","Woman","Black or African American",2,1
+"8A","8","Second","Engineering","Man","Black or African American",0,3
+"8A","8","Third","Engineering","Woman","Black or African American",0,3
+"8A","8","Second","Engineering","Man","Asian/Asian American",0,5
+"8A","8","Second","Physics","Woman","Black or African American",0,4
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Hispanic or Latinx",0,4
+"8A","8","Second","Other physical science","Woman","Black or African American,Hispanic or Latinx",1,4
+"8A","8","Second","Engineering","Man","Black or African American",1,1
+"8A","8","Second","Engineering","Man","Black or African American",0,1
+"8A","8","Third","Engineering","Woman","Black or African American,White",0,1
+"8A","8","Second","Engineering","Other","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Black or African American",0,3
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Black or African American",0,4
+"8A","8","Third","Engineering","Man","Black or African American",0,3
+"8A","8","Second","Physics","Woman","Black or African American",0,2
+"8A","8","Third","Engineering","Man","Black or African American",4,4
+"8A","8","Third","Engineering","Woman","American Indian or Alaska Native,Black or African American",0,4
+"8A","8","Third","Other","Woman","Black or African American",0,3
+"8A","8","Second","Physics","Woman","Hispanic or Latinx",0,1
+"8A","8","Second","Engineering","Woman","Black or African American",0,2
+"8A","8","Second","Engineering","Woman","Black or African American",0,2
+"8A","8","Second","Engineering","Woman","Black or African American",2,3
+"8A","8","Second","Physics","Woman","Black or African American",0,3
+"8A","8","Third","Life science or biology","Woman","Black or African American",0,3
+"8A","8","Third","Physics","Man","Black or African American",0,3
+"8A","8","Second","Engineering","Woman","Black or African American",0,3
+"8A","8","Third","Physics","Woman","Black or African American",0,5
+"8A","8","Second","Physics","Man","White",1,4
+"8A","8","Second","Engineering","Man","Black or African American",1,3
+"8A","8","Third","Engineering","Man","Black or African American",0,3
+"8A","8","Third","Engineering","Woman","Black or African American",0,4
+"8A","8","Third","Life science or biology","Woman","Black or African American",0,3
+"8A","8","Third","Engineering","Man","Hispanic or Latinx",0,3
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Man","Black or African American",0,4
+"8A","8","Second","Engineering","Man","Black or African American",0,2
+"8A","8","Second","Engineering","Man","Black or African American",1,5
+"8A","8","Third","Engineering","Man","Black or African American",0,3
+"8A","8","Second","Engineering","Man","Black or African American,Hispanic or Latinx",2,3
+"8A","8","Second","Engineering","Man","Black or African American",0,2
+"8A","8","Unknown","Engineering","Man","Black or African American",2,2
+"8A","8","Unknown","Engineering","Woman","Black or African American",0,3
+"8A","8","Second","Engineering","Man","Black or African American",0,3
+"8A","8","Second","Engineering","Man","Asian/Asian American",2,4
+"8A","8","Second","Engineering","Man","Black or African American",0,2
+"8A","8","Third","Engineering","Woman","Black or African American",0,4
+"8A","8","Second","Engineering","Other","Black or African American",0,2
+"8A","8","Third","Engineering","Man","Black or African American",0,1
+"8A","8","Third","Physics","Man","Black or African American",0,4
+"8B","8","Second","Physics","Man","Hispanic or Latinx",0,4
+"8B","8","Fourth","Engineering","Man","Black or African American",0,1
+"8B","8","Second","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American,White",1,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Other","Man","Black or African American",0,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",1,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",3,3
+"8B","8","Fourth","Life science or biology","Man","Black or African American,Hispanic or Latinx",1,4
+"8B","8","Fourth","Other","Man","Black or African American",1,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",2,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",1,4
+"8B","8","Fourth","Other","Man","Black or African American",0,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Other","Woman","Black or African American",0,1
+"8B","8","Fourth","Other physical science","Woman","American Indian or Alaska Native",0,4
+"8B","8","Fourth","Other","Man","Black or African American",1,5
+"8B","8","Fourth","Other","Woman","Black or African American",0,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,1
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",2,5
+"8B","8","Fourth","Other","Woman","Black or African American",2,2
+"8B","8","Fourth","Unknown","Woman","Unknown",0,2
+"8B","8","Fourth","Unknown","Man","Black or African American",0,2
+"8B","8","Fourth","Other","Man","Black or African American",1,1
+"8B","8","Fourth","Other","Man","Black or African American",0,1
+"8B","8","Fourth","Unknown","Man","Black or African American",0,2
+"8B","8","Other","Unknown","Woman","Black or African American",0,4
+"8B","8","Third","Life science or biology","Woman","American Indian or Alaska Native,Black or African American",1,1
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Unknown","Woman","Black or African American",0,4
+"8B","8","Third","Life science or biology","Woman","Asian/Asian American,Native Hawaiian or other Pacific Islander",0,2
+"8B","8","Fourth","Unknown","Man","Black or African American",1,3
+"8B","8","Second","Unknown","Man","Black or African American",0,3
+"8B","8","Third","Engineering","Man","Black or African American",0,4
+"8B","8","Third","Unknown","Man","Black or African American",0,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,3
+"8B","8","Third","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Other physical science","Man","White",0,3
+"8B","8","Fourth","Other","Woman","Black or African American",0,3
+"8B","8","Fourth","Physics","Woman","Black or African American",0,1
+"8B","8","Fourth","Unknown","Woman","Black or African American",2,4
+"8B","8","Third","Physics","Man","Black or African American",0,1
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Third","Physics","Man","Asian/Asian American",0,4
+"8B","8","Fourth","Other","Man","Black or African American",0,2
+"8B","8","Fourth","Physics","Woman","Black or African American",0,2
+"8B","8","Fourth","Engineering","Man","Black or African American",1,3
+"8B","8","Fourth","Other","Man","Black or African American",0,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",1,4
+"8B","8","Fourth","Unknown","Woman","Black or African American",1,1
+"8B","8","Second","Other","Woman","Black or African American",0,1
+"8B","8","Fourth","Other","Man","Black or African American",2,1
+"8B","8","Fourth","Other","Woman","Asian/Asian American,Black or African American",1,4
+"8B","8","Fourth","Other","Woman","Black or African American",0,4
+"8B","8","Third","Life science or biology","Woman","Black or African American,Hispanic or Latinx,Middle Eastern or North African",0,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",1,2
+"8B","8","Fourth","Other","Woman","Black or African American",0,3
+"8B","8","Third","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",1,4
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,4
+"8B","8","Fourth","Unknown","Woman","Black or African American",1,3
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,2
+"8B","8","Fourth","Other","Woman","Black or African American",0,1
+"8B","8","Fourth","Life science or biology","Woman","Black or African American",0,4
+"6A","6","Second","Physics","Man","White",5,5
+"6A","6","Second","Engineering","Woman","Asian/Asian American",3,3
+"6A","6","Second","Physics","Man","White",1,4
+"6A","6","Second","Engineering","Woman","White",1,2
+"6A","6","Second","Engineering","Man","White",1,3
+"6A","6","Second","Engineering","Man","White",3,5
+"6A","6","Second","Engineering","Woman","White",3,3
+"6A","6","First","Physics","Man","Asian/Asian American",0,5
+"6A","6","Second","Engineering","Man","White",0,4
+"6A","6","Second","Engineering","Man","White",0,4
+"6A","6","Second","Engineering","Man","White",0,4
+"6A","6","Second","Engineering","Man","White",0,3
+"6A","6","Second","Engineering","Man","White",2,3
+"6A","6","Second","Engineering","Man","White",0,1
+"6A","6","Second","Physics","Man","White",0,5
+"6A","6","Second","Engineering","Man","White",0,5
+"6A","6","Second","Engineering","Man","White",0,5
+"6A","6","Second","Physics","Man","Asian/Asian American,Black or African American",0,5
+"6A","6","Second","Engineering","Man","White",0,4
+"6A","6","Second","Physics","Man","American Indian or Alaska Native,White",0,5
+"6B","6","Fourth","Unknown","Man","White",0,2
+"6B","6","Second","Life science or biology","Man","White",0,4
+"6B","6","Third","Life science or biology","Woman","White",2,3
+"6B","6","Second","Life science or biology","Man","White",0,4
+"6B","6","Third","Unknown","Woman","White",0,3
+"6B","6","Third","Life science or biology","Woman","Asian/Asian American",1,4
+"6B","6","Second","Life science or biology","Man","White",0,3
+"6B","6","Second","Other","Woman","White",0,4
+"6B","6","Third","Other","Woman","White",0,3
+"6B","6","Third","Other","Woman","White",0,1
+"6B","6","Third","Life science or biology","Man","White",0,3
+"6B","6","Second","Other","Woman","White",1,3
+"6B","6","Third","Unknown","Man","White",0,4
+"6B","6","Third","Other","Woman","White",0,2
+"6B","6","Fourth","Other","Woman","Black or African American",0,4
+"6B","6","Third","Life science or biology","Man","White",3,3
+"6B","6","Fourth","Unknown","Woman","Asian/Asian American",0,1
+"6B","6","Second","Life science or biology","Man","Hispanic or Latinx",0,2
+"6B","6","Second","Life science or biology","Woman","White",1,2
+"6B","6","Fourth","Unknown","Man","White",0,3
+"6B","6","Second","Life science or biology","Woman","Hispanic or Latinx,White",0,2
+"6B","6","Second","Other","Man","Asian/Asian American",0,2
+"6B","6","Second","Life science or biology","Woman","White",1,4
+"6B","6","Second","Other","Man","White",0,4
+"6B","6","Fourth","Unknown","Man","Unknown",1,4
+"6B","6","Second","Unknown","Man","Black or African American",0,3
+"6B","6","Second","Life science or biology","Man","White",2,2
+"6B","6","Third","Other","Woman","White",1,2
+"6B","6","Second","Life science or biology","Man","White",2,4
+"6B","6","Second","Other physical science","Man","White",1,5
+"6B","6","Second","Life science or biology","Woman","White",0,3
+"6B","6","First","Other","Woman","White",0,2
+"6B","6","Second","Unknown","Man","White",0,2
+"6B","6","First","Other","Woman","White",0,4
+"6B","6","Second","Unknown","Woman","White",1,4
+"6B","6","Second","Life science or biology","Woman","White",0,3
+"6B","6","Second","Other","Man","White",0,2
+"6B","6","Second","Life science or biology","Man","White",0,4
+"6B","6","Third","Other","Man","White",0,2
+"6B","6","Second","Unknown","Woman","Asian/Asian American,White",1,2
+"6B","6","Second","Other","Woman","Hispanic or Latinx,White",0,3
+"6B","6","Second","Life science or biology","Man","White",1,4
+"6B","6","Fourth","Life science or biology","Woman","White",1,1
+"6B","6","Second","Other","Woman","White",0,4
+"6B","6","Second","Other","Woman","White",0,4
+"6B","6","Second","Life science or biology","Woman","White",1,1
+"6B","6","Second","Life science or biology","Woman","White",0,1
+"6B","6","Second","Life science or biology","Woman","White",0,2
+"6B","6","Second","Life science or biology","Woman","White",1,4
+"6B","6","Third","Other","Woman","White",0,3
+"6B","6","First","Other","Woman","White",0,4
+"6B","6","First","Other","Man","White",1,4
+"6B","6","Third","Unknown","Woman","White",0,3
+"6B","6","Second","Life science or biology","Woman","White",0,3
+"6B","6","Second","Life science or biology","Man","White",1,3
+"6B","6","Second","Life science or biology","Man","White",0,4
+"6B","6","First","Other","Man","White",0,3
+"6B","6","Third","Life science or biology","Woman","White",2,1
+"6B","6","Third","Life science or biology","Woman","White",1,3
+"6B","6","Second","Other","Man","Asian/Asian American,White",0,3
+"6B","6","Second","Life science or biology","Man","White",0,3
+"6B","6","Second","Life science or biology","Man","White",0,4
+"6B","6","Second","Life science or biology","Woman","Hispanic or Latinx",0,4
+"6B","6","Third","Life science or biology","Woman","Unknown",0,3
+"6B","6","Third","Life science or biology","Woman","White",0,3
+"6B","6","Second","Life science or biology","Man","White",2,3
+"6B","6","Second","Life science or biology","Man","White",0,3
+"6B","6","Second","Unknown","Man","White",0,1
+"6B","6","Second","Life science or biology","Woman","White",0,2
+"6B","6","Third","Other","Woman","White",2,4
+"6B","6","Second","Life science or biology","Woman","White",0,2
+"6B","6","Third","Life science or biology","Woman","White",0,1
+"6B","6","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"6B","6","Second","Life science or biology","Woman","White",0,3
+"6C","6","Second","Other","Man","White",0,4
+"6C","6","Second","Life science or biology","Man","White",1,3
+"6C","6","Second","Life science or biology","Woman","White",0,5
+"6C","6","Third","Life science or biology","Woman","White",1,3
+"6C","6","Second","Life science or biology","Man","White",0,4
+"6C","6","Second","Life science or biology","Woman","Asian/Asian American",2,2
+"6C","6","Third","Life science or biology","Woman","White",0,3
+"6C","6","Fourth","Other","Woman","White",0,1
+"6C","6","Second","Life science or biology","Woman","White",0,2
+"6C","6","Second","Other","Woman","White",0,2
+"6C","6","Fourth","Life science or biology","Woman","White",1,2
+"6C","6","Second","Life science or biology","Woman","Black or African American",1,1
+"6C","6","Second","Other","Woman","Native Hawaiian or other Pacific Islander,White",0,3
+"6C","6","Second","Life science or biology","Woman","White",0,3
+"6C","6","Second","Life science or biology","Woman","White",2,4
+"6C","6","Third","Life science or biology","Woman","American Indian or Alaska Native",1,3
+"6C","6","Second","Life science or biology","Woman","Asian/Asian American",2,3
+"6C","6","Second","Other","Woman","White",0,4
+"6C","6","Fourth","Life science or biology","Woman","White",0,2
+"6C","6","Fourth","Other","Woman","White",0,3
+"6C","6","First","Other","Man","White",1,1
+"6C","6","Second","Other","Woman","White",0,4
+"6C","6","First","Life science or biology","Woman","White",2,3
+"6C","6","Third","Life science or biology","Woman","White",0,4
+"6C","6","Third","Other","Woman","White",0,3
+"6C","6","Third","Life science or biology","Man","White",2,3
+"6C","6","Third","Other","Man","White",0,1
+"6C","6","Second","Other","Man","White",1,3
+"6C","6","Third","Other","Man","White",0,3
+"6C","6","Fourth","Other","Woman","White",1,3
+"6C","6","Second","Life science or biology","Man","White",0,3
+"6C","6","Second","Life science or biology","Woman","White",2,5
+"6C","6","Second","Life science or biology","Woman","White",0,3
+"6C","6","Second","Other","Woman","White",0,2
+"6C","6","Third","Life science or biology","Man","White",1,2
+"6C","6","Second","Life science or biology","Man","White",2,4
+"6C","6","Third","Life science or biology","Woman","White",0,1
+"6C","6","Third","Other","Woman","White",2,3
+"6C","6","Second","Unknown","Man","White",1,4
+"6C","6","Third","Life science or biology","Woman","White",0,3
+"6C","6","Second","Life science or biology","Woman","White",1,2
+"6C","6","Second","Life science or biology","Woman","White",0,1
+"6C","6","Fourth","Life science or biology","Woman","White",0,1
+"6C","6","Second","Life science or biology","Woman","White",1,3
+"6C","6","Fourth","Life science or biology","Woman","White",1,3
+"6C","6","Second","Life science or biology","Man","White",0,4
+"6C","6","Second","Life science or biology","Woman","White",0,2
+"6D","6","Third","Life science or biology","Woman","White",0,2
+"6D","6","Fourth","Other","Woman","White",0,4
+"6D","6","Third","Other","Man","White",0,2
+"6D","6","First","Life science or biology","Woman","White",0,3
+"6D","6","Fourth","Other","Woman","White",0,1
+"6D","6","Fourth","Other physical science","Woman","Asian/Asian American",0,1
+"6D","6","Fourth","Other","Woman","White",0,1
+"6D","6","Third","Other","Man","White",0,3
+"6D","6","Third","Other","Woman","White",0,2
+"6D","6","Third","Other","Woman","White",0,3
+"6D","6","Second","Life science or biology","Man","White",3,5
+"6D","6","Other","Unknown","Woman","White",0,2
+"6D","6","Fourth","Life science or biology","Woman","White",0,1
+"6D","6","Fourth","Other","Man","White",1,4
+"6D","6","Third","Other","Man","White",0,4
+"6D","6","Third","Life science or biology","Woman","White",1,3
+"6D","6","Other","Unknown","Woman","Asian/Asian American",0,2
+"6D","6","Third","Other","Man","White",0,2
+"6D","6","Fourth","Life science or biology","Woman","White",5,2
+"6D","6","Second","Other","Woman","White",0,1
+"6D","6","Fourth","Other","Woman","White",0,4
+"6D","6","Fourth","Other","Woman","Black or African American",2,3
+"6D","6","Fourth","Other","Man","White",0,5
+"6D","6","Second","Other","Man","White",0,3
+"6D","6","Other","Life science or biology","Man","White",1,2
+"6D","6","Fourth","Life science or biology","Woman","White",0,3
+"6D","6","Third","Unknown","Man","White",0,3
+"6D","6","Second","Life science or biology","Woman","White",1,5
+"6D","6","Fourth","Life science or biology","Woman","White",1,3
+"6D","6","Other","Unknown","Woman","White",0,2
+"6D","6","Third","Other","Man","White",0,5
+"6D","6","Third","Life science or biology","Woman","White",1,5
+"6D","6","Third","Other","Man","White",0,2
+"6D","6","Fourth","Physics","Man","Hispanic or Latinx",2,4
+"6D","6","Second","Life science or biology","Woman","White",0,3
+"6D","6","Second","Life science or biology","Woman","White",1,3
+"6D","6","Third","Other","Woman","White",1,3
+"7A","7","Second","Other physical science","Woman","Asian/Asian American",3,3
+"7A","7","Second","Life science or biology","Woman","Unknown",0,4
+"7A","7","Third","Other","Woman","Asian/Asian American",1,4
+"7A","7","First","Unknown","Man","Hispanic or Latinx",1,5
+"7A","7","Fourth","Life science or biology","Other","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",9,4
+"7A","7","Unknown","Life science or biology","Man","White",0,2
+"7A","7","Second","Physics","Man","Hispanic or Latinx",0,2
+"7A","7","Third","Other physical science","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",2,2
+"7A","7","Third","Other physical science","Woman","Black or African American",3,4
+"7A","7","First","Other","Woman","White",3,4
+"7A","7","Second","Other physical science","Woman","Asian/Asian American",4,2
+"7A","7","First","Engineering","Man","Hispanic or Latinx",1,2
+"7A","7","Third","Life science or biology","Woman","White",1,3
+"7A","7","Third","Life science or biology","Woman","Unknown",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",1,1
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,4
+"7A","7","Third","Other","Woman","White",4,4
+"7A","7","First","Engineering","Man","Middle Eastern or North African,White",0,5
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",3,3
+"7A","7","Third","Life science or biology","Woman","White",2,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Other","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Man","White",1,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",6,2
+"7A","7","First","Engineering","Man","Asian/Asian American,White",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",3,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","First","Engineering","Man","Asian/Asian American",1,3
+"7A","7","Second","Other","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","White",3,3
+"7A","7","Second","Life science or biology","Man","Asian/Asian American,White",2,2
+"7A","7","First","Unknown","Man","Asian/Asian American",2,3
+"7A","7","Third","Life science or biology","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","White",3,3
+"7A","7","Third","Life science or biology","Man","White",3,3
+"7A","7","Third","Other","Man","Asian/Asian American",4,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",7,1
+"7A","7","Other","Life science or biology","Man","Asian/Asian American",1,3
+"7A","7","Third","Other","Woman","Black or African American",0,1
+"7A","7","Fourth","Other","Woman","White",1,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",3,4
+"7A","7","Third","Other","Woman","Asian/Asian American",2,4
+"7A","7","Third","Life science or biology","Woman","American Indian or Alaska Native,White",0,3
+"7A","7","Second","Physics","Woman","Asian/Asian American",1,3
+"7A","7","Third","Other","Woman","Black or African American",0,2
+"7A","7","Third","Other","Woman","Black or African American",0,3
+"7A","7","Third","Unknown","Woman","Black or African American",0,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",4,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,3
+"7A","7","Third","Other","Woman","Asian/Asian American",1,2
+"7A","7","Second","Other","Woman","Hispanic or Latinx",0,1
+"7A","7","First","Engineering","Woman","Middle Eastern or North African",1,2
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Third","Other","Woman","Hispanic or Latinx",0,2
+"7A","7","Fourth","Other","Woman","Hispanic or Latinx",5,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",2,1
+"7A","7","Second","Other","Woman","White",6,3
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","White",2,4
+"7A","7","Third","Life science or biology","Woman","Unknown",0,2
+"7A","7","Second","Other physical science","Woman","White",2,3
+"7A","7","Second","Engineering","Woman","Hispanic or Latinx,White",1,4
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",2,4
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,2
+"7A","7","Third","Life science or biology","Man","White",1,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Other","Woman","White",0,4
+"7A","7","Third","Unknown","Man","Asian/Asian American",1,4
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",0,2
+"7A","7","Second","Physics","Man","Black or African American",0,1
+"7A","7","Third","Unknown","Man","Asian/Asian American,Native Hawaiian or other Pacific Islander",2,1
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Other","Woman","White",6,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",2,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,White",2,4
+"7A","7","Third","Life science or biology","Man","White",1,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,White",2,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,3
+"7A","7","Fourth","Other","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Life science or biology","Man","White",5,2
+"7A","7","Third","Life science or biology","Man","White",0,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Unknown","Man","Asian/Asian American",0,3
+"7A","7","First","Physics","Man","Asian/Asian American",6,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,1
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",1,3
+"7A","7","Third","Life science or biology","Woman","Unknown",3,3
+"7A","7","Third","Other","Man","Hispanic or Latinx",2,3
+"7A","7","Third","Life science or biology","Other","Hispanic or Latinx",0,3
+"7A","7","First","Other physical science","Woman","White",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,2
+"7A","7","Third","Life science or biology","Woman","White",1,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",2,3
+"7A","7","Fourth","Other","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",4,1
+"7A","7","Third","Other","Woman","Unknown",0,3
+"7A","7","Second","Life science or biology","Woman","Hispanic or Latinx",0,4
+"7A","7","Second","Other","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Black or African American",1,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Second","Life science or biology","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Third","Unknown","Man","Asian/Asian American",1,3
+"7A","7","Second","Engineering","Man","Hispanic or Latinx",1,1
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx",0,4
+"7A","7","Third","Other","Woman","Asian/Asian American",1,4
+"7A","7","Third","Other","Woman","White",0,1
+"7A","7","Third","Other","Woman","Asian/Asian American",1,3
+"7A","7","First","Engineering","Man","Asian/Asian American",3,5
+"7A","7","Third","Life science or biology","Woman","White",0,1
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",2,5
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",4,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","White",3,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,5
+"7A","7","Third","Other","Woman","White",1,4
+"7A","7","Third","Life science or biology","Woman","White",4,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Second","Engineering","Man","White",2,1
+"7A","7","Third","Other","Man","Asian/Asian American",3,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",6,3
+"7A","7","Fourth","Life science or biology","Woman","Black or African American",0,3
+"7A","7","Second","Engineering","Man","White",2,2
+"7A","7","First","Life science or biology","Man","White",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Other","Woman","American Indian or Alaska Native",0,3
+"7A","7","Fourth","Other","Woman","Hispanic or Latinx",0,1
+"7A","7","Fourth","Life science or biology","Man","Hispanic or Latinx",1,1
+"7A","7","Second","Unknown","Woman","Hispanic or Latinx",1,1
+"7A","7","Third","Other","Woman","White",0,4
+"7A","7","Fourth","Other","Woman","White",1,4
+"7A","7","Second","Life science or biology","Woman","White",7,3
+"7A","7","Third","Unknown","Woman","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",1,3
+"7A","7","Third","Other physical science","Man","Black or African American",1,4
+"7A","7","Third","Life science or biology","Woman","White",1,4
+"7A","7","Third","Life science or biology","Woman","White",1,2
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",0,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",1,2
+"7A","7","Fourth","Other","Woman","Black or African American,White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,2
+"7A","7","Fourth","Other","Woman","White",0,3
+"7A","7","Third","Unknown","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Second","Life science or biology","Man","Asian/Asian American,White",1,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",2,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",2,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Fourth","Other physical science","Man","Asian/Asian American",1,5
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,Hispanic or Latinx",1,3
+"7A","7","First","Unknown","Man","White",3,4
+"7A","7","Second","Engineering","Woman","White",1,2
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",1,1
+"7A","7","Fourth","Life science or biology","Man","White",1,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",1,2
+"7A","7","First","Other physical science","Man","Asian/Asian American",1,4
+"7A","7","Second","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","American Indian or Alaska Native,White",0,3
+"7A","7","Third","Life science or biology","Man","White",0,2
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",0,1
+"7A","7","Fourth","Other","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","White",3,3
+"7A","7","Third","Life science or biology","Woman","Black or African American,Self-describe:",0,1
+"7A","7","Third","Life science or biology","Other","Asian/Asian American,Hispanic or Latinx",1,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,2
+"7A","7","First","Engineering","Woman","Asian/Asian American",1,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,3
+"7A","7","Fourth","Other physical science","Woman","White",1,3
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,1
+"7A","7","Third","Life science or biology","Woman","White",1,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Second","Engineering","Man","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",2,3
+"7A","7","First","Engineering","Man","Middle Eastern or North African",2,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,2
+"7A","7","Second","Other","Man","Asian/Asian American",3,3
+"7A","7","Third","Life science or biology","Woman","Unknown",2,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","First","Other","Man","White",1,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",1,4
+"7A","7","Second","Engineering","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Unknown","Man","Asian/Asian American",1,3
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","American Indian or Alaska Native,White",0,3
+"7A","7","Third","Other","Woman","Middle Eastern or North African,White",0,3
+"7A","7","First","Other","Woman","White",3,3
+"7A","7","Third","Other","Woman","Black or African American",0,3
+"7A","7","Third","Life science or biology","Woman","American Indian or Alaska Native,Hispanic or Latinx",1,2
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx,White",0,1
+"7A","7","Third","Life science or biology","Woman","Unknown",2,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",1,5
+"7A","7","First","Engineering","Man","White",0,4
+"7A","7","Fourth","Life science or biology","Man","Hispanic or Latinx",0,2
+"7A","7","Third","Engineering","Man","Asian/Asian American",1,3
+"7A","7","Fourth","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Man","Middle Eastern or North African,White",0,3
+"7A","7","Third","Other","Woman","Hispanic or Latinx,White",2,2
+"7A","7","Third","Other","Woman","White",1,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Black or African American",2,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Fourth","Life science or biology","Man","White",1,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,3
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,4
+"7A","7","Third","Unknown","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Second","Life science or biology","Man","Hispanic or Latinx,White",0,3
+"7A","7","Second","Unknown","Man","White",0,2
+"7A","7","Third","Other physical science","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Third","Unknown","Man","Black or African American,Hispanic or Latinx",0,4
+"7A","7","Third","Other","Woman","Asian/Asian American",0,3
+"7A","7","Second","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","White",2,3
+"7A","7","Third","Life science or biology","Woman","Black or African American,White",2,3
+"7A","7","Third","Life science or biology","Woman","American Indian or Alaska Native,Hispanic or Latinx,White",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,White",1,2
+"7A","7","Third","Life science or biology","Woman","White",2,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Second","Life science or biology","Woman","White",1,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Other","Woman","White",2,4
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,3
+"7A","7","Second","Other","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,Hispanic or Latinx",1,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Third","Life science or biology","Woman","Unknown",1,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,4
+"7A","7","Third","Life science or biology","Woman","White",5,2
+"7A","7","Fourth","Life science or biology","Woman","Middle Eastern or North African",0,2
+"7A","7","Third","Life science or biology","Woman","Middle Eastern or North African",0,2
+"7A","7","Second","Physics","Man","White",0,3
+"7A","7","Fourth","Other","Woman","White",0,2
+"7A","7","Third","Other","Woman","Middle Eastern or North African",1,3
+"7A","7","Third","Other","Woman","Asian/Asian American",3,3
+"7A","7","Third","Life science or biology","Woman","White",2,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Other physical science","Woman","White",0,5
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",1,3
+"7A","7","Third","Other","Man","White",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",3,4
+"7A","7","Third","Life science or biology","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,5
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Man","White",1,4
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American,White",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Man","White",3,3
+"7A","7","Third","Life science or biology","Woman","White",1,3
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Other","Man","Unknown",0,4
+"7A","7","Fourth","Other","Woman","White",1,4
+"7A","7","First","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,1
+"7A","7","Fourth","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Second","Life science or biology","Woman","White",1,2
+"7A","7","Third","Life science or biology","Woman","White",2,3
+"7A","7","Third","Life science or biology","Man","Middle Eastern or North African",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Second","Other physical science","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,4
+"7A","7","Second","Engineering","Woman","White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,3
+"7A","7","First","Engineering","Man","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Fourth","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,White",0,4
+"7A","7","Fourth","Other","Woman","Black or African American",0,2
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","First","Engineering","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Life science or biology","Man","Unknown",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",0,2
+"7A","7","Second","Unknown","Woman","Asian/Asian American",2,3
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Other","Other","Woman","White",0,1
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Other","Life science or biology","Woman","White",0,3
+"7A","7","First","Engineering","Woman","White",2,3
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",3,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Unknown","Woman","Asian/Asian American",0,2
+"7A","7","Third","Other","Man","White",0,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Second","Unknown","Woman","Black or African American",0,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",1,1
+"7A","7","Third","Other","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",3,3
+"7A","7","Fourth","Life science or biology","Woman","White",4,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Fourth","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Man","White",0,2
+"7A","7","Fourth","Life science or biology","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Fourth","Unknown","Woman","Asian/Asian American",0,4
+"7A","7","First","Physics","Woman","White",0,4
+"7A","7","Third","Life science or biology","Woman","White",1,4
+"7A","7","Third","Life science or biology","Woman","White",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",2,5
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",5,3
+"7A","7","Second","Other","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","White",1,1
+"7A","7","Fourth","Life science or biology","Woman","White",0,4
+"7A","7","Third","Other","Man","White",2,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Other","Man","Black or African American",0,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",1,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",2,4
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,4
+"7A","7","Third","Other physical science","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,4
+"7A","7","Second","Life science or biology","Man","Asian/Asian American",2,3
+"7A","7","Third","Other","Woman","Hispanic or Latinx",0,2
+"7A","7","Second","Engineering","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,5
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Woman","White",1,2
+"7A","7","Third","Life science or biology","Other","Hispanic or Latinx",1,1
+"7A","7","Third","Life science or biology","Woman","White",1,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,4
+"7A","7","Third","Other","Man","Asian/Asian American",0,3
+"7A","7","Third","Other physical science","Woman","White",0,1
+"7A","7","Third","Other","Woman","White",0,4
+"7A","7","Third","Life science or biology","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,1
+"7A","7","Fourth","Other","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,3
+"7A","7","First","Other","Man","White",1,5
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,3
+"7A","7","Third","Other","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",3,3
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,4
+"7A","7","Third","Other","Woman","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Man","Unknown",1,3
+"7A","7","Second","Physics","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","American Indian or Alaska Native,Asian/Asian American,White",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,1
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,1
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,4
+"7A","7","Second","Physics","Other","White",0,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Other","Man","Hispanic or Latinx",0,3
+"7A","7","Fourth","Life science or biology","Woman","Black or African American",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,Middle Eastern or North African",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Fourth","Other","Man","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Fourth","Other","Woman","White",1,3
+"7A","7","First","Engineering","Woman","Asian/Asian American",2,4
+"7A","7","Third","Other","Woman","Hispanic or Latinx",0,3
+"7A","7","Second","Engineering","Woman","Hispanic or Latinx",0,4
+"7A","7","Third","Life science or biology","Woman","White",2,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",1,3
+"7A","7","Third","Life science or biology","Man","White",1,2
+"7A","7","Second","Engineering","Woman","Hispanic or Latinx",1,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,2
+"7A","7","Second","Unknown","Man","Asian/Asian American",2,3
+"7A","7","Third","Other","Man","White",2,4
+"7A","7","Fourth","Unknown","Man","Asian/Asian American",0,3
+"7A","7","Third","Other","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Unknown","Unknown","Woman","American Indian or Alaska Native,White",0,3
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,Hispanic or Latinx",0,2
+"7A","7","Third","Life science or biology","Man","White",0,4
+"7A","7","Third","Other","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Other","Other","Woman","White",2,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,White",0,2
+"7A","7","Third","Life science or biology","Woman","White",1,2
+"7A","7","Third","Other","Man","White",0,2
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Fourth","Life science or biology","Man","White",0,2
+"7A","7","Third","Unknown","Man","Hispanic or Latinx,White",1,3
+"7A","7","First","Physics","Man","White",1,4
+"7A","7","Third","Other","Woman","Hispanic or Latinx,White",0,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Other","Hispanic or Latinx,White",0,1
+"7A","7","Third","Other","Woman","Asian/Asian American,Black or African American",1,4
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",0,3
+"7A","7","Third","Other","Man","Asian/Asian American",0,3
+"7A","7","Second","Engineering","Man","Hispanic or Latinx",0,3
+"7A","7","Third","Other","Woman","Asian/Asian American",1,4
+"7A","7","Third","Other","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,4
+"7A","7","Third","Life science or biology","Other","Asian/Asian American",0,2
+"7A","7","Fourth","Other","Woman","White",1,2
+"7A","7","Second","Other physical science","Man","White",3,3
+"7A","7","Third","Other","Woman","American Indian or Alaska Native,Hispanic or Latinx",0,3
+"7A","7","Third","Other physical science","Woman","White",1,2
+"7A","7","Second","Engineering","Man","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx",1,1
+"7A","7","Third","Life science or biology","Man","White",0,4
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",2,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",2,2
+"7A","7","Third","Other","Woman","Hispanic or Latinx",1,3
+"7A","7","Third","Life science or biology","Woman","Black or African American,Hispanic or Latinx,White",0,1
+"7A","7","Third","Other","Woman","Asian/Asian American",0,3
+"7A","7","Third","Other","Other","White",0,3
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",2,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American,Hispanic or Latinx,White",0,4
+"7A","7","Fourth","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","First","Unknown","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,5
+"7A","7","First","Engineering","Woman","Asian/Asian American",0,3
+"7A","7","Third","Other","Woman","Asian/Asian American,Hispanic or Latinx,White",0,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",0,3
+"7A","7","Second","Other","Man","Hispanic or Latinx",0,2
+"7A","7","Fourth","Other physical science","Woman","Asian/Asian American,White",0,5
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,3
+"7A","7","Third","Other","Woman","White",0,2
+"7A","7","First","Engineering","Man","Hispanic or Latinx",0,3
+"7A","7","First","Engineering","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Other","Woman","Asian/Asian American",0,3
+"7A","7","Fourth","Physics","Woman","Asian/Asian American",0,1
+"7A","7","First","Other","Woman","Asian/Asian American",1,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,4
+"7A","7","Second","Other physical science","Man","Hispanic or Latinx",1,3
+"7A","7","First","Engineering","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Woman","White",0,4
+"7A","7","Second","Engineering","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Other","Woman","Asian/Asian American",0,3
+"7A","7","Third","Other physical science","Man","Hispanic or Latinx",0,2
+"7A","7","First","Engineering","Man","White",0,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Third","Physics","Woman","Middle Eastern or North African",0,4
+"7A","7","Second","Physics","Man","White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Second","Physics","Woman","Hispanic or Latinx",0,2
+"7A","7","Fourth","Life science or biology","Woman","White",0,1
+"7A","7","Third","Life science or biology","Woman","Black or African American",0,5
+"7A","7","Second","Life science or biology","Woman","Black or African American",0,1
+"7A","7","Fourth","Other","Man","White",1,4
+"7A","7","Second","Engineering","Man","White",0,3
+"7A","7","Second","Physics","Man","Asian/Asian American",0,4
+"7A","7","Third","Other","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",2,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,3
+"7A","7","Second","Engineering","Man","Hispanic or Latinx,White",0,2
+"7A","7","Third","Life science or biology","Man","White",0,5
+"7A","7","Second","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,5
+"7A","7","Third","Other","Woman","Hispanic or Latinx,White",1,1
+"7A","7","Third","Other physical science","Woman","Black or African American",1,3
+"7A","7","Third","Other","Man","Asian/Asian American,White",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,2
+"7A","7","Second","Other physical science","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Middle Eastern or North African,White",0,2
+"7A","7","Second","Life science or biology","Man","Hispanic or Latinx",0,4
+"7A","7","Second","Other","Woman","Asian/Asian American",0,1
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Second","Engineering","Man","White",1,4
+"7A","7","First","Engineering","Man","White",0,5
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Second","Engineering","Woman","White",1,2
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,1
+"7A","7","Second","Engineering","Man","Hispanic or Latinx",0,3
+"7A","7","Second","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Second","Engineering","Woman","Asian/Asian American",0,4
+"7A","7","Third","Life science or biology","Woman","Black or African American,Hispanic or Latinx",0,4
+"7A","7","Unknown","Life science or biology","Woman","Hispanic or Latinx",0,2
+"7A","7","Third","Other","Man","Hispanic or Latinx",0,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",1,3
+"7A","7","Second","Engineering","Other","White",0,3
+"7A","7","Second","Other","Woman","Middle Eastern or North African",1,3
+"7A","7","Second","Engineering","Man","White",2,4
+"7A","7","Fourth","Life science or biology","Woman","Hispanic or Latinx",0,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Fourth","Other","Woman","Middle Eastern or North African",0,4
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Other","Woman","White",0,4
+"7A","7","First","Other","Man","White",0,2
+"7A","7","Third","Life science or biology","Man","Black or African American",0,1
+"7A","7","Third","Other","Woman","White",2,4
+"7A","7","Third","Unknown","Woman","Hispanic or Latinx",0,2
+"7A","7","Second","Physics","Man","Black or African American,Hispanic or Latinx",2,4
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Woman","White",0,3
+"7A","7","Third","Other","Woman","Asian/Asian American",1,1
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",0,3
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Woman","White",2,1
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",2,4
+"7A","7","First","Physics","Woman","Hispanic or Latinx",2,1
+"7A","7","Fourth","Other physical science","Woman","Black or African American",0,3
+"7A","7","Third","Other","Woman","Hispanic or Latinx,White",1,4
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Man","White",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",0,3
+"7A","7","Fourth","Other","Woman","Black or African American,Hispanic or Latinx",0,4
+"7A","7","Fourth","Life science or biology","Man","White",0,3
+"7A","7","Third","Life science or biology","Man","White",1,3
+"7A","7","Fourth","Other","Woman","White",0,2
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",2,5
+"7A","7","Third","Life science or biology","Man","American Indian or Alaska Native,Hispanic or Latinx",1,3
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx",1,4
+"7A","7","Second","Other physical science","Man","White",1,3
+"7A","7","Second","Physics","Woman","Asian/Asian American",1,4
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx,White",0,1
+"7A","7","Fourth","Life science or biology","Man","White",1,3
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","Third","Life science or biology","Man","Hispanic or Latinx",0,1
+"7A","7","Third","Other","Woman","White",0,3
+"7A","7","Third","Other","Man","White",0,3
+"7A","7","Third","Other physical science","Man","Hispanic or Latinx",0,5
+"7A","7","Third","Life science or biology","Woman","Hispanic or Latinx,White",0,4
+"7A","7","Third","Life science or biology","Woman","Asian/Asian American",1,4
+"7A","7","First","Unknown","Man","Black or African American",0,2
+"7A","7","First","Other","Woman","Black or African American",0,2
+"7A","7","Second","Physics","Man","Asian/Asian American",0,2
+"7A","7","Third","Life science or biology","Man","Asian/Asian American",0,3
+"7A","7","First","Engineering","Woman","Hispanic or Latinx",0,4
